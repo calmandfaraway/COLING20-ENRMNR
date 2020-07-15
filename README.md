@@ -1,6 +1,6 @@
-### Event-Oriented Neural Ranking Model Empowered News Retrieval
+### An Event-Oriented Neural Ranking Model Empowered News Retrieval
 
-Repo of code and data for paper "Event-Oriented Neural Ranking Model Empowered News Retrieval"
+Repo of code and data for paper "An Event-Oriented Neural Ranking Model Empowered News Retrieval"
 
 Abstract: 
 
